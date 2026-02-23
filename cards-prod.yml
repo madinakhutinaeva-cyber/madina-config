@@ -3,12 +3,13 @@ build:
  version: "1.0"   
 
 cards: 
-  message: "Welcome to EazyBank cards related prod APIs "
+  message: "Welcome to EazyBank cards related WEBHOOK APIs "
   contactDetails:
     name: "Reine Aishwarya- Product Owner"
     email: "aishwarya@eazybank.com"
   onCallSupport:
     - (453) 392-4829
     - (236) 203-0384    
+
 
 
